@@ -1,0 +1,2 @@
+# Aicte-portal
+Aicte app
